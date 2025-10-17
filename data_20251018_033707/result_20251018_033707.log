@@ -1,0 +1,9 @@
+﻿=== Keyword: 주민|등록|번호|신분|운전|면허|여권|건강|보험|진단|자격|증명|재직|졸업|성적|신청|접수|고객|회원|인적사항|사번|직원|본인|인증|인적|월급|연봉|명세|비밀|계약|서약 ===
+es.exe : Error 8: Everything IPC window not found. Please make sure Everything is running.
+위치 C:\Users\sumin\Desktop\25 호텔\KeywordSearchAndCopy5umn1_step6,7,8.9.ps1:59 문자:21
++         $esOutput = & $esPath @argList 2>&1
++                     ~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (Error 8: Everyt...ing is running.:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+
